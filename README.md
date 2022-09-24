@@ -2,8 +2,8 @@
 ## [Демо проекта](https://pet-project-react.vercel.app)
 ### Главная страница
 ![Главная](https://github.com/PavelAxenov/Shopping-cart-ts/blob/main/public/imgs/store.jpg)
-### Навыки
-![Навыки](https://github.com/PavelAxenov/Shopping-cart-ts/raw/main/public/imgs/cart.jpg)
+### Корзина покупок
+![Корзина покупок](https://github.com/PavelAxenov/Shopping-cart-ts/raw/main/public/imgs/cart.jpg)
 
 ## Стек
 * React
