@@ -1,5 +1,5 @@
 # Проект: AboutMe
-## [Демо проекта](https://pet-project-react.vercel.app)
+
 ### Главная страница
 ![Главная](https://github.com/PavelAxenov/Shopping-cart-ts/blob/main/public/imgs/store.jpg)
 ### Корзина покупок
