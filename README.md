@@ -1,9 +1,9 @@
 # Проект: AboutMe
 ## [Демо проекта](https://pet-project-react.vercel.app)
 ### Главная страница
-![Главная](https://github.com/PavelAxenov/Shopping-cart-ts/raw/main/src/images/readme/store.jpg)
+![Главная](https://github.com/PavelAxenov/Shopping-cart-ts/blob/main/public/imgs/store.jpg)
 ### Навыки
-![Навыки](https://github.com/PavelAxenov/Shopping-cart-ts/raw/main/src/images/readme/cart.jpg)
+![Навыки](https://github.com/PavelAxenov/Shopping-cart-ts/raw/main/public/imgs/cart.jpg)
 
 ## Стек
 * React
