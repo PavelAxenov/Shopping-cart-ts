@@ -10,6 +10,7 @@
 * Bootstrap 5
 * React Routing
 * Vite
+* TypeScript
 
 ## Функциональность
 * SPA представляет собой небольшой интернет магазин.
